@@ -1,0 +1,2 @@
+#!/bin/bach
+echo $(cut -cl | tr -d " \n")
